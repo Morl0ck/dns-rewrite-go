@@ -1,0 +1,9 @@
+{
+  "rewrite_entries": {
+    "example.com.": "192.168.1.100",
+    "www.example.com.": "192.168.1.100",
+    "test.local.": "192.168.1.200"
+  },
+  "listen_address": "0.0.0.0:53",
+  "upstream_dns": "8.8.8.8:53"
+}
