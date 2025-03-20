@@ -26,8 +26,7 @@ A lightweight DNS rewriting tool built in Go. It intercepts and rewrites DNS que
 Run the tool with a configuration file:
 
 ```bash
-./dns-rewrite-go -config config.yaml
-Create or edit your config.yaml to set up your rewrite rules.
+./dns-rewrite-go
 ```
 
 Sample config.json
