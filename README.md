@@ -29,7 +29,7 @@ Run the tool with a configuration file:
 ./dns-rewrite-go
 ```
 
-Sample config.json
+Sample `config.json`
 
 ```json
 {
